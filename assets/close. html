@@ -1,4 +1,4 @@
-<script>
-close();
-open(location, '_self').close();
-</script>
+<p> Wow </p>
+
+
+
